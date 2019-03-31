@@ -1,0 +1,1 @@
+一个集成了Jenkins以及Android编译环境的Docker镜像
